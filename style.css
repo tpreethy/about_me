@@ -1,0 +1,27 @@
+img{
+	position:relative;
+	height:493px;
+	width:1412px;
+}
+
+/*h1{
+	position:absolute;
+	top:147px;
+	right:546px;
+	font-size:63px;
+}
+
+h3{
+	position:absolute;
+	top:103px;
+	right:713px;
+	font-size:31px;
+}*/
+
+.masthead-intro{
+	text-align:center;
+}
+
+.masthead-heading{
+	text-align:center;
+}
